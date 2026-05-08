@@ -1,2 +1,2 @@
-# tikes
-Technology, Information, Knowledge, Experience and Sharing
+# Kites
+Knowledge, Information, Technology, Experience and Sharing
